@@ -14,8 +14,8 @@ const contacts = [
     {
         name: "Arsen Kalantaryan",
         email: "kalantarovayu22@st.ithub.ru",
-        phone: "+79998889999",
-        image: "img/Arsen.jpg"
+        phone: "+79998899999",
+        image: "img/arsen.jpg"
     }
 ];
 
